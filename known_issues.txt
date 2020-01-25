@@ -1,0 +1,3 @@
+1 / 24 / 2020: turning off the extension does not give back the shortcuts to the user. it will automcomplete whatever results was most recently displayed
+1 / 24 / 2020: sometimes the display is not displayed where the cursor is on screen using the follower strategy
+1 / 25 / 2020: Even when the add-on is off, the shortcuts are not given regular control back
